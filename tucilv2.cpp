@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//========INI VERSI WINDOWS====
 #include <stdlib.h>//<-- INI BUAT APA YAA?
 #include <time.h>//<-- BUAT RANDOM BANGET NGET NGET
 // INI GAK ADA ERROR KECUALI LO MASUKIN CHARACHTER KE PILIHAN (KECUALI NGISI USERNAME), SAMA YANG SPASI KATA GUA ITU BILLL
